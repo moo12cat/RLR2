@@ -1,6 +1,6 @@
 {
     "name": "RLR2",
-    "description": "Redundant long-range micro:bit radio extension",
+    "description": "Radio Long Range 2 for MicrobitV2",
     "license": "MIT",
     "dependencies": {},
     "files": [
