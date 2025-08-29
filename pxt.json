@@ -1,0 +1,17 @@
+{
+    "name": "RLR2",
+    "description": "Redundant long-range micro:bit radio extension",
+    "license": "MIT",
+    "dependencies": {},
+    "files": [
+        "main.ts",
+        "shims.d.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.0"
+    },
+    "namespace": "RLR2",
+    "supportedTargets": ["microbit"],
+    "preferredEditor": "blocksprj",
+    "public": true
+}
